@@ -1,0 +1,13 @@
+{
+  "test": {
+    "a": 2,
+    "b": 0
+  },
+  "resource": {
+    "introduction": "File_Back_Up_Manager\nversion1.0 GitHub:https://github.com/chen20061007/FileBackUpManager",
+    "help": "~~~help:功能列表\n~~~run:進行備份(all =>全選, {number} =>指定號碼)\n~~~add:新增備份資料夾({指定資料夾}={備份資料夾})"
+  },
+  "dir": {
+    "E:\\TestFile\\test1\\source": "E:\\TestFile\\test1\\destination"
+  }
+}
